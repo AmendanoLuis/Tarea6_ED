@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"tarea6edluisaugusto","l":"main"},{"p":"tarea6edluisaugusto","l":"Tarea6_ED_LuisAugusto"}]
